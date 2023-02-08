@@ -24,3 +24,4 @@ Al seguir los pasos correctamente, podrá navegar en la aplicación.
 Se puede cambiar los colores de fondo.
 ![image](https://user-images.githubusercontent.com/124819111/217666985-c32a21ad-873e-4eb8-8760-80e9100f4950.png)
 
+Para más información, lea el manual.
