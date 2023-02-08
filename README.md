@@ -3,8 +3,14 @@ Este es un poryecto de java que he hecho para fines de practicarme y aprender m�
 
 El proyecto fue elaborado para fines de practicarme en Java y a la vez aprender cosas nuevas sobre este lenguaje. El programa simula una aplicación de escritorio donde se puede hacer compras y administrar los datos de la BD. El programa es sobre 3 tipo de usuario: Administrador, empleado y cliente. El administrador tendrá todas las funciones de la aplicación, mientras que el empleado tendrá menos y el cliente solo podrá comprar y ver producto.
 
--Descargue el proyecto y ábralo en Neatbens.
+-Descargue el proyecto y ábralo en Neatbens. 
+
 -Descargue la base de datos y ábralo en My SQL Workbench.
+
+-Verificque que el proyecto tiene las dos librerías en netbeans: librería de mysql y librería de itext5. En el caso que no. Agregue las librerías al proyecto. Las librerías se encuentran en la carpeta "Librerías" de este mismo repositorio.
+
+![image](https://user-images.githubusercontent.com/124819111/217671137-dfddc0b1-c1e5-4cff-b652-8553c6a00ddd.png)
+
 -Establezca la contraseña del gestor de BD en siguiendo el camino: ProyectoPersonal -> Source Packages -> Métodos -> Conexión.
 ![image](https://user-images.githubusercontent.com/124819111/217666751-338cb2e3-c904-4f83-848d-9fba17d4c549.png)
 
